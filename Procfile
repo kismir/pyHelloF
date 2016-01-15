@@ -1,1 +1,1 @@
-web: main.py
+web: python manage.py shell
