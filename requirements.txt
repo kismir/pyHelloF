@@ -1,1 +1,1 @@
-pytelegrambotapi
+pybotapi==pytelegrambotapi
