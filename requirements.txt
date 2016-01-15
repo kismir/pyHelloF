@@ -1,1 +1,1 @@
-pybot==https://github.com/eternnoir/pyTelegramBotAPI
+https://github.com/eternnoir/pyTelegramBotAPI.git
