@@ -1,3 +1,3 @@
-# -*- coding: utf-8 -*-
+#!/usr/bin/env python
 for i in range(100):
   print(i)
